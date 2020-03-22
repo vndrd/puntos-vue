@@ -19,7 +19,6 @@
 
 #nav {
   padding: 30px;
-
   a {
     font-weight: bold;
     color: #2c3e50;
@@ -29,4 +28,34 @@
     }
   }
 }
+.user-item{
+  background-color: #eee;
+  margin:10px;
+  padding-top: 10px;
+}
+.user-item img{
+  width: 50px;
+  height: auto;
+  background: #a0a261;
+}
+.user-item .immg{
+  float: left;
+  margin-right: 10px;
+}
+.prof{
+  float: left;
+}
+.user-item span{
+  font-weight: bold;
+}
+.user-item a{
+  margin:0;
+  clear: both;
+  float: left;
+}
+.listaDetalles{
+  background: #ffffff;
+  width: 100%;
+}
+
 </style>
