@@ -29,7 +29,7 @@ export default {
   },
   props: ['user'],
   created() {
-      
+      //console.log("asdasdasdasd")
   },
   computed: { 
     image_url: function() {
